@@ -1,0 +1,20 @@
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.dll
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.pdb
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\DBBase\obj\Debug\ResolveAssemblyReference.cache
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.dll
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.pdb
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.dll
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.pdb
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\DBBase\obj\Debug\ResolveAssemblyReference.cache
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.dll
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.pdb
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.dll
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.pdb
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\DBBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.dll
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.pdb
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.dll
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\DBBase\bin\Debug\DBBase.pdb
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.dll
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.pdb
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\DBBase\obj\Debug\DBBase.csprojResolveAssemblyReference.cache

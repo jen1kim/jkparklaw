@@ -1,0 +1,404 @@
+2009-12-23 13:31:13.2411 GridView.HandleSelect => GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged categoryID - 3
+2009-12-23 13:31:13.3571 GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged => Contents.BindContents contents - 0
+2009-12-23 13:31:15.1051 GridView.HandleSelect => GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged categoryID - 6
+2009-12-23 13:31:15.1051 GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged => Contents.BindContents contents - 0
+2009-12-23 13:33:48.2211 GridView.HandleSelect => GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged categoryID - 3
+2009-12-23 13:33:48.2211 GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged => Contents.BindContents contents - 0
+2009-12-23 13:33:50.2801 GridView.HandleSelect => GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged categoryID - 6
+2009-12-23 13:33:50.2801 GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged => Contents.BindContents contents - 0
+2009-12-23 13:33:51.6841 GridView.HandleSelect => GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged categoryID - 3
+2009-12-23 13:33:51.6881 GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged => Contents.BindContents contents - 0
+2009-12-23 13:33:54.3211 GridView.HandleSelect => GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged categoryID - 6
+2009-12-23 13:33:54.3241 GridView.OnSelectedIndexChanged => Contents.CategoryGrid_SelectedIndexChanged => Contents.BindContents contents - 0
+2009-12-29 11:13:27.2763 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:17:38.8783 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:17:38.8943 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:23:08.9123 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:23:08.9293 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:23:08.9383 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:24:18.4613 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:24:18.4803 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:24:18.4803 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:24:18.4803 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:00.8843 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:00.9023 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:00.9023 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:00.9023 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:10.7413 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:10.7533 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:10.7683 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:10.7683 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:12.6203 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:12.6203 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:12.6203 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:12.6203 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:13.6433 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:13.6493 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:13.6493 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:13.6493 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:14.9593 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:14.9593 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:14.9593 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:14.9593 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:15.8583 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:15.8613 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:15.8613 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:15.8613 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 11:32:16.8963 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # _sectionID - 1
+2009-12-29 11:32:16.8963 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load # collection - 1
+2009-12-29 11:32:16.9073 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # category name - 鏃機檜團
+2009-12-29 11:32:16.9073 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeCategoriesTree # SetNodes 1 - 鏃機檜團
+2009-12-29 12:39:41.1113 GridView.HandleDelete => GridView.OnRowDeleting => Contents.ContentGrid_RowDeleting deleting contents - 3
+2009-12-29 12:46:21.8693 GridView.HandleDelete => GridView.OnRowDeleting => Contents.ContentGrid_RowDeleting deleting contents - 4
+2009-12-29 12:50:11.8943 GridView.HandleDelete => GridView.OnRowDeleting => Contents.ContentGrid_RowDeleting deleting contents - 5
+2009-12-29 12:50:11.9293 GridView.HandleDelete => GridView.OnRowDeleting => Contents.ContentGrid_RowDeleting binding contents - 0 3
+2009-12-29 13:50:34.5599 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:50:34.5739 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:50:34.5849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:50:34.5849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:50:34.5849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:52:45.1659 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:52:45.1839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:52:45.1839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:52:45.1839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:52:45.2029 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:52:45.2029 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 13:52:45.2149 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 13:54:10.2919 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:54:10.3079 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:54:10.3079 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:54:10.3079 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:54:10.3229 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:54:10.3229 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 13:54:10.3229 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 13:54:13.6629 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:54:13.6629 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:54:13.6819 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:54:13.6819 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:54:13.7009 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 1
+2009-12-29 13:54:13.7089 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 13:54:13.7259 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 13:54:15.2809 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 6
+2009-12-29 13:54:15.2949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 1牖嬪
+2009-12-29 13:54:15.2949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:54:15.3069 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:54:15.3069 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:54:15.3189 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 13:54:15.3189 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 13:54:17.1839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:54:17.1859 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:54:17.2049 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:54:17.2049 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:54:17.2259 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:54:17.2259 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 13:54:17.2479 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 13:56:21.5049 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:56:21.5049 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:56:21.5119 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:56:21.5119 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:56:21.5119 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:56:21.5119 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 13:56:21.5299 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 13:56:25.0139 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:56:25.0139 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:56:25.0209 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:56:25.0209 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:56:25.0209 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 6
+2009-12-29 13:56:25.0209 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 13:56:25.0389 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 13:56:27.3179 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:56:27.3179 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:56:27.3179 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:56:27.3309 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:56:27.3309 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 1
+2009-12-29 13:56:27.3309 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 13:56:27.3309 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 13:56:28.7249 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:56:28.7249 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:56:28.7349 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:56:28.7349 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:56:28.7349 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 6
+2009-12-29 13:56:28.7349 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 13:56:28.7559 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 13:56:30.4399 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:56:30.4529 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:56:30.4529 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:56:30.4669 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:56:30.4669 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 1
+2009-12-29 13:56:30.4669 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 13:56:30.4809 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 13:56:32.5589 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:56:32.5589 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:56:32.5719 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:56:32.5719 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:56:32.5719 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 6
+2009-12-29 13:56:32.5869 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 13:56:32.6019 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 13:59:56.8479 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 13:59:56.8479 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 13:59:56.8479 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 13:59:56.8609 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 13:59:56.8609 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 13:59:56.8609 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 13:59:56.8759 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:02:02.0669 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:02:02.0669 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:02:02.0749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:02:02.0749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:02:02.0749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:02:02.0749 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:02:02.0949 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:02:09.5909 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:02:09.5909 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:02:09.5989 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:02:09.5989 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:02:09.6089 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 6
+2009-12-29 14:02:09.6089 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 14:02:09.6089 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 14:02:11.1849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:02:11.1849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:02:11.1989 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:02:11.2139 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:02:11.2139 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 1
+2009-12-29 14:02:11.2139 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 14:02:11.2309 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 14:02:12.4839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:02:12.4839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:02:12.4949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:02:12.4949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:02:12.4949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 6
+2009-12-29 14:02:12.4949 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 14:02:12.5169 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 14:03:09.2569 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:03:09.2749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:03:09.2749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:09.2749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:09.2749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:09.2899 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:09.2899 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:12.7849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:03:12.7849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:03:12.7849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:12.7849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:12.7999 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:12.7999 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:12.7999 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:15.3499 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:03:15.3729 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:03:15.3749 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:15.3949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:15.3949 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 6
+2009-12-29 14:03:15.4169 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 False
+2009-12-29 14:03:15.4209 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 False
+2009-12-29 14:03:17.3189 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 6
+2009-12-29 14:03:17.3189 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 1牖嬪
+2009-12-29 14:03:17.3269 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:17.3269 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:17.3269 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:17.3269 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:17.3439 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:19.5689 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 14
+2009-12-29 14:03:19.5899 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 2牖嬪
+2009-12-29 14:03:19.5899 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:19.6179 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:19.6179 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:19.6399 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:19.6399 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:21.8759 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 15
+2009-12-29 14:03:21.8759 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 3牖嬪
+2009-12-29 14:03:21.8839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:21.8839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:21.8839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:21.8839 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:21.8989 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:23.4549 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 16
+2009-12-29 14:03:23.4729 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 4牖嬪
+2009-12-29 14:03:23.4729 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:23.4869 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:23.4869 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:23.4869 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:23.5009 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:24.5599 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 17
+2009-12-29 14:03:24.5599 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 喻翕羶ъ陛(PERM)
+2009-12-29 14:03:24.5759 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:24.5769 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:24.5769 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:24.5769 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:24.5989 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:03:25.3449 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 18
+2009-12-29 14:03:25.3449 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 蝶ア憮 營薑棟溘
+2009-12-29 14:03:25.3449 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:03:25.3609 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:03:25.3609 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:03:25.3609 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.SetContent _contentID == 0 True
+2009-12-29 14:03:25.3729 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:04:59.7839 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:04:59.7989 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:04:59.7989 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:04:59.7989 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:04:59.8159 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:04:59.8159 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:05:04.0349 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 14
+2009-12-29 14:05:04.0349 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 2牖嬪
+2009-12-29 14:05:04.0459 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:05:04.0459 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:05:04.0579 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:05:04.0579 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:05:06.6119 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:05:06.6119 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:05:06.6339 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:05:06.6339 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:05:06.6559 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:05:06.6679 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:05:08.1849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 6
+2009-12-29 14:05:08.1849 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 1牖嬪
+2009-12-29 14:05:08.1999 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:05:08.1999 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:05:08.2169 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:05:08.2179 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:05:10.1189 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 18
+2009-12-29 14:05:10.1189 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 蝶ア憮 營薑棟溘
+2009-12-29 14:05:10.1269 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:05:10.1269 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:05:10.1369 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:05:10.1369 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:05:12.7829 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 7
+2009-12-29 14:05:12.7829 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 褐羶蹂勒
+2009-12-29 14:05:12.7929 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 2
+2009-12-29 14:05:12.7929 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 癱濠檜團
+2009-12-29 14:05:12.7929 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:05:12.8049 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:05:15.8319 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 8
+2009-12-29 14:05:15.8319 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 模擋癱濠
+2009-12-29 14:05:15.8319 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 8
+2009-12-29 14:05:15.8319 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 模擋癱濠
+2009-12-29 14:05:15.8469 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:05:15.8469 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 14:31:24.3687 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 14:31:24.3687 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 14:31:24.3687 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 14:31:24.3687 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 14:31:24.3837 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 14:31:24.3837 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-29 15:47:30.3457 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-29 15:47:30.3457 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-29 15:47:30.3457 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-29 15:47:30.3457 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-29 15:47:30.3537 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-29 15:47:30.3537 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-30 00:29:17.4881 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-30 00:29:17.6191 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-30 00:29:17.6191 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-30 00:29:17.6191 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-30 00:29:17.6191 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-30 00:29:17.6811 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-30 00:29:20.7271 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 6
+2009-12-30 00:29:20.7271 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 1牖嬪
+2009-12-30 00:29:20.7271 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-30 00:29:20.7271 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-30 00:29:20.7431 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-30 00:29:20.7431 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-30 00:29:22.0171 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-30 00:29:22.0171 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-30 00:29:22.0171 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-30 00:29:22.0171 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-30 00:29:22.0331 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-30 00:29:22.0331 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-30 00:29:23.8071 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 7
+2009-12-30 00:29:23.8071 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 褐羶蹂勒
+2009-12-30 00:29:23.8161 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 2
+2009-12-30 00:29:23.8161 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 癱濠檜團
+2009-12-30 00:29:23.8261 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-30 00:29:23.8261 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-30 00:29:25.6291 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 8
+2009-12-30 00:29:25.6291 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 模擋癱濠
+2009-12-30 00:29:25.6371 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 8
+2009-12-30 00:29:25.6371 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 模擋癱濠
+2009-12-30 00:29:25.6371 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-30 00:29:25.6371 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2009-12-30 00:29:27.5581 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryID 3
+2009-12-30 00:29:27.5581 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _categoryName 鏃機檜團碟盟
+2009-12-30 00:29:27.5581 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionID 1
+2009-12-30 00:29:27.5691 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _sectionName 鏃機檜團
+2009-12-30 00:29:27.5691 CalliEventHandlerDelegateProxy.Callback => CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load _contentID 0
+2009-12-30 00:29:27.5691 CalliHelper.EventArgFunctionCaller => ContentsListing.Page_Load => ContentsListing.MakeHTMLTree _contentID == 0 True
+2010-01-01 01:45:37.6096 CalliHelper.EventArgFunctionCaller => Counselings.Page_Load => Counselings.BindCounselings BindContents Exception - Both DataSource and DataSourceID are defined on 'CounselingsGrid'.  Remove one definition.
+2010-01-07 23:46:03.6909 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting deleting news - 2
+2010-01-07 23:46:03.8379 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting binding news 
+2010-01-07 23:50:04.4099 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting deleting news - 3
+2010-01-07 23:50:04.5289 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting binding news 
+2010-01-08 03:26:38.0929 Button.RaisePostBackEvent => Button.OnClick => Cases.UpdateDetails_Click caseID: 1
+2010-01-08 03:28:52.1809 Button.RaisePostBackEvent => Button.OnClick => Cases.UpdateDetails_Click caseID: 1
+2010-01-08 17:26:53.7007 Button.RaisePostBackEvent => Button.OnClick => Sections.btnAddNewSection_Click Add New Section: 3 6
+2010-01-08 21:33:24.5197 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting deleting news - 16
+2010-01-12 01:38:14.7175 GridView.HandleDelete => GridView.OnRowDeleting => Members.MembersGrid_RowDeleting deleting member - TestID
+2010-01-13 00:06:52.6167 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID
+2010-01-13 00:07:01.2157 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID
+2010-01-13 00:09:06.6487 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID
+2010-01-13 00:10:48.0707 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-13 00:13:09.3187 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-13 00:17:45.4237 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-13 00:18:50.4907 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-13 00:32:21.3367 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID CheckMemberID fired
+2010-01-13 00:32:21.4057 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID exist - False
+2010-01-13 00:32:25.3587 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID CheckMemberID fired
+2010-01-13 00:32:48.9357 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID CheckMemberID fired
+2010-01-13 00:32:48.9877 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID exist - False
+2010-01-13 00:35:10.6597 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID CheckMemberID fired
+2010-01-13 00:35:10.7337 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID exist - False
+2010-01-13 00:36:06.7437 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-13 00:37:10.5607 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID CheckMemberID fired
+2010-01-13 00:37:10.6147 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID exist - False
+2010-01-13 00:37:25.5327 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-13 00:39:29.1367 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID CheckMemberID fired
+2010-01-13 00:39:29.2417 ImageButton.OnClick => CreateMember.btnCheckMemberID_Click => CreateMember.CheckMemberID exist - False
+2010-01-13 00:39:44.1677 Button.RaisePostBackEvent => Button.OnClick => Members.btnDelete_Click deleting memberid - TestID2
+2010-01-19 09:54:55.8277 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting deleting news - 145
+2010-01-19 09:56:57.4765 GridView.HandleDelete => GridView.OnRowDeleting => OtherList.OthersGrid_RowDeleting deleting news - 2
+2010-01-19 16:52:16.4980 GridView.HandleDelete => GridView.OnRowDeleting => NewsList.NewsGrid_RowDeleting deleting news - 146
+2011-12-23 14:07:17.4695 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 1
+2011-12-23 14:25:08.1498 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 5
+2016-05-26 17:39:32.9871 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 133
+2016-05-26 17:40:18.8627 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 134
+2016-05-26 17:42:25.9470 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 135
+2016-05-26 17:42:54.5376 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 136
+2016-05-26 17:46:49.1110 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 137
+2016-05-26 17:49:52.5785 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 138
+2016-05-26 17:49:55.8747 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 139
+2016-05-26 17:51:43.5749 GridView.HandleDelete => GridView.OnRowDeleting => BoardList.gridList_RowDeleting deleting board message - 140
+2016-05-27 13:10:31.9893 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:10:32.0423 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:10:32.0423 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail jenkim@siesoft.com
+2016-05-27 13:10:33.0843 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:10:33.0843 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:10:33.0843 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:10:33.0843 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail admin@jkparklaw.com
+2016-05-27 13:10:34.1454 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:11:45.9185 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:11:45.9215 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:11:45.9215 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail jenkim@siesoft.com
+2016-05-27 13:11:46.9186 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:11:46.9186 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:11:46.9196 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:11:46.9196 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail admin@jkparklaw.com
+2016-05-27 13:11:47.9206 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:12:14.8181 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:12:14.8181 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:12:14.8181 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail jenkim@siesoft.com
+2016-05-27 13:12:15.8232 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:12:15.8232 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:12:15.8232 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:12:15.8272 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail admin@jkparklaw.com
+2016-05-27 13:12:16.8283 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:12:59.9977 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:13:00.0227 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:13:00.0227 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail jenkim@siesoft.com
+2016-05-27 13:13:01.0748 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-05-27 13:13:01.0748 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage SMTPServer localhost
+2016-05-27 13:13:01.0748 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage fromEmail admin@jkparklaw.com
+2016-05-27 13:13:01.0748 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage destEmail admin@jkparklaw.com
+2016-05-27 13:13:02.1129 Directions.btnSubmit_Click => Directions.SendEmail => SendMail.SendMailMessage Mail Sending error! Failure sending mail.
+2016-06-01 13:20:25.1821 Button.RaisePostBackEvent => Button.OnClick => Sections.btnAddNewSection_Click Add New Section: 7 17
+2016-06-01 13:20:35.9607 Button.RaisePostBackEvent => Button.OnClick => Sections.btnAddNewSection_Click Add New Section: ??????? ??????? ?? ??? ??
+2016-06-01 13:21:40.7764 Button.RaisePostBackEvent => Button.OnClick => Sections.btnAddNewSection_Click Add New Section: 4 14
+2016-06-01 13:21:40.7764 Button.RaisePostBackEvent => Button.OnClick => Sections.btnAddNewSection_Click Add New Section: ???? ???? ?? ??? ??

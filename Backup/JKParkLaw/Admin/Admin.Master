@@ -1,0 +1,60 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="JKParkLaw.Admin.Master" %>
+
+<%@ Register src="~/Admin/Controls/Info/LeftMenu.ascx" tagname="LeftMenu" tagprefix="uc1" %>
+<%@ Register src="~/Admin/Controls/Info/RootMenu.ascx" tagname="RootMenu" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title id="TitleTag" runat="server">Administration</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table cellpadding="0" cellspacing="0" align="center" >
+    	<tr><td> 
+			<!-- start of subheader -->
+            <uc2:RootMenu ID="RootMenuuc" runat="server" />
+			<!-- end of subheader -->
+	</td></tr>
+    <tr><td>
+        <table cellspacing="0" cellpadding="4" border="0" valign="top" bgcolor="#FFFFFF">  
+            <tr valign="top" style="height:500px">
+                <td valign="top" >
+                    <uc1:LeftMenu ID="LeftMenuuc" runat="server" />
+                </td>
+                <td style="padding-left:5px">
+                    <table cellpadding="0" cellspacing="0" width="750px" style="padding-top:10px; padding-bottom:20px; background-color:#FFFFFF;" >
+                        <tr>
+                            <td valign="top">
+                                <table width="100%" cellpadding="0" cellspacing="0" style="	margin-left:1px;"> 
+                                <tr>
+                                    <td width="25%" height="29" align="center" valign="middle" background="<%= this.AppPath %>App_Themes/Admin_Theme/Images/bara_m_b.jpg" class="style16Ba_back">
+                                        <asp:Label ID="SectionNamelbl" runat="server" Text="Administration">
+                                        </asp:Label></td>
+                                    <td width="75%" class="style14Ba">::&nbsp;&nbsp;<asp:Label ID="SubSectionName" runat="server" ></asp:Label></td>
+                                </tr>
+                                </table>
+                                <table cellpadding="0" cellspacing="0" width="750px" style="border:#75AADB 1px solid; margin:0px;">
+				                <tr>
+				                    <td>
+                                    <asp:ContentPlaceHolder ID="AdminPlaceHolder" runat="server" >
+                                    </asp:ContentPlaceHolder>   
+                                    </td>
+                                </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+    </form>
+</body>
+</html>

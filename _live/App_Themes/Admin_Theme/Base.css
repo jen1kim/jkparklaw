@@ -1,0 +1,97 @@
+﻿body        {margin:0px;/* background:#F5F5F5; */}
+table       {   }
+input       {font-size:11px;}
+
+.style12Bb  {font-size: 12px;font-weight: bold;color: #000000;text-decoration: none;font-family: Arial, Helvetica, sans-serif;}
+.style9_b   {font-size: 9px;font-weight: normal;color: #000000;text-decoration: none;font-family: Arial, Helvetica, sans-serif;}
+.style12Ba  {font-size: 12px;font-weight: bold;color: #01427d;text-decoration: none;font-family: Georgia, "Times New Roman", Times, serif;}
+.style12Ba a    {font-size: 12px;font-weight: bold;color: #01427d;text-decoration: underline;font-family: Georgia, "Times New Roman", Times, serif;}
+.style11_al     {font-size: 11px;font-weight: normal;color: #2554a4;text-decoration: none;font-family: Georgia, "Times New Roman", Times, serif;
+                 padding-left:10px; padding-right:3px}
+.case_al        {border: 1px solid #75aadb;}
+.style12Bal     {font-size: 12px;font-weight: bold;color: #FFFFFF;text-decoration: none;font-family: Arial;}
+.style12_al     {font-size: 12px;font-weight: bold;color: #FFFFFF;text-decoration: none;font-family: "Times New Roman", Times, serif;
+                 border: 1px solid #FFFFFF;}
+.style12_a      {font-size: 12px;font-weight: normal;color: #01427d;text-decoration: none;font-family: "Times New Roman", Times, serif;}
+.style14Ba      {font-size: 14px;font-weight: bold;color: #01427d;text-decoration: none;font-family: Arial, Helvetica, sans-serif;}
+.style14Ba_back {font-size: 14px;font-weight: bold;color: #01427d;text-decoration: none;font-family: Arial, Helvetica, sans-serif;background:url(Images/bara_m_b.jpg)}
+
+.style12_gr     {font-size: 12px;font-weight: normal;color: #000000;text-decoration: none;font-family: "Times New Roman", Times, serif;}
+.style12_b      {font-size: 12px;font-weight: normal;color: #8d8d8d;text-decoration: none;font-family: Arial, Helvetica, sans-serif;}
+.case_a         {border: 1px solid #75aadb;font-family: Georgia, "Times New Roman", Times, serif;}
+.case_a2        {font-family: Tahoma;font-size: 12px;font-weight: bold;color: #333333;border-top-width: 1px;border-right-width: 1px;
+                 border-bottom-width: 1px;border-left-width: 1px;border-top-style: none;border-right-style: none;border-bottom-style: solid;
+                 border-left-style: none;border-top-color: #75aadb;border-right-color: #75aadb;border-bottom-color: #75aadb;
+                 border-left-color: #75aadb;background-color: #F5F5F5;}
+.case_line      {border-top-width: 2px;border-right-width: 2px;border-bottom-width: 2px;border-left-width: 2px;border-bottom-style: solid;
+                 border-top-color: #CCCCCC;border-right-color: #CCCCCC;border-bottom-color: #CCCCCC;border-left-color: #CCCCCC;}
+.style16Ba      {font-size: 17px;font-weight: bold;color: #01427d;text-align:left;padding-left:30px;text-decoration: none;
+                 font-family: Arial, Helvetica, sans-serif;}
+.style16Ba_back {font-size: 17px;font-weight: bold;color: #01427d;text-align:left;padding-left:30px;text-decoration: none;
+                 font-family: Arial, Helvetica, sans-serif;background:url(Images/bara_m_b.jpg)}
+                 
+.style11Bblak   {font-size: 11px;font-weight: bold;color: #000000;text-decoration: none;font-family: Arial;	border: 1px solid #FFFFFF;}
+.style11_blak   {font-size: 11px;font-weight: normal;color: #000000;text-decoration: none;font-family: Arial;border: 1px solid #FFFFFF;}
+.style11_black  {font-size: 11px;font-weight: normal;color: #000000;text-decoration: none;font-family: Arial;}
+.style12Balb    {font-size: 12px;font-weight: bold;color: #FFFFFF;text-decoration: none;font-family: Tahoma;}
+.style11_blak_bg {font-size: 11px;font-weight: normal;color: #000000;text-decoration: none;font-family: Arial;background-color: #F5F5F5;
+                  border: 1px solid #FFFFFF;}
+                  
+.caset_11       {width: 100px;font-family: Tahoma;font-size: 11px;font-weight: normal;color: #333333;text-decoration: none;}
+.caset_12       {width: 50px;	font-family: Tahoma;	font-size: 11px;	font-weight: normal;	color: #333333;	text-decoration: none;}
+.caset_cod      {font-family: Tahoma;	font-size: 11px;	font-weight: normal;	color: #333333;	text-decoration: none;}
+.caset_nr       {width: 50px;	font-family: Tahoma;	font-size: 11px;	font-weight: normal;	color: #333333;	text-decoration: none;}
+
+.style10_alb    {font-size: 10px;	font-weight: bold;	color: #FFFFFF;	text-decoration: none;	font-family: Tahoma;}
+.style10_blue   {font-size: 10px;	color: #0000FF;	text-decoration: none;	font-family: Tahoma;}
+.style11_blue   {font-size: 11px;	color: #FFFFFF;	text-decoration: none;	font-family: Arial;	background-image: url(Images/btn_blue.jpg);
+                 height: 17px;	font-weight: bold;}
+.style11_ore    {font-size: 11px;	color: #FFFFFF;	text-decoration: none;	font-family: Arial;	background-image: url(Images/btn_ora.jpg);
+                 height: 17px;	font-weight: bold;}
+.style11_line   {font-size: 11px;	color: #333333;	text-decoration: none;	font-family: Arial;	height: 17px;	font-weight: normal;	width: auto;}
+.style11_blue2  {font-size: 11px;	font-weight: normal;	color: #01427D;	text-decoration: underline;	font-family: Arial;}
+.select         {font-size: 11px;	font-weight: normal;	color: #333333;	text-decoration: none;	font-family: Arial;	width: 60px;	height: 20px;}
+.line1          {font-size: 11px;font-weight: normal;color: #333333;text-decoration: none;font-family: Arial;width: 150px;height: 17px;}
+.line2          {font-size: 11px;font-weight: normal;	color: #333333;	text-decoration: none;	font-family: Arial;	width: 200px;	height: 17px;}
+.prdnameedit    {font-size:16px;color:#000033;text-decoration:none;	font-weight:bold;	padding-left:30px;}
+.errorsTable    {border:1px solid #CB5C41;color:#CF3030;width:500px;text-align:left;clear:both;float:left;display:table;margin:10px 0px 5px 30px;}
+.infoTable      {border:1px solid #508AD1;color:#5B87D0;width:500px;clear:both;float:left;display:table;text-align:left;margin:10px 0px 5px 30px;}
+.headbtn        {padding-left:10px; padding-right:10px;vertical-align:middle;}
+.headbtn a      {font-size: 12px;font-weight: bold;color: #000000;text-decoration: none;font-family: Arial, Helvetica, sans-serif;}
+.headselbtn     {background-image:url('Images/bara_b2_s.jpg');padding-left:10px; padding-right:10px;vertical-align:middle;}
+.headselbtn a   {font-size: 12px;font-weight: bold;color: #FFFFFF;text-decoration: none;font-family: Arial;}
+.rootbtn        {text-align:left;background-image:url('Images/cub_b.jpg');background-position:center left;background-repeat:no-repeat;padding: 2px 30px 2px 11px;
+                 /* width:40px; */}
+.rootbtn a      {font-size: 12px;font-weight: bold;	color: #01427d;	text-decoration: none;	font-family: Georgia, "Times New Roman", Times, serif;}
+.rootselbtn     {text-align:left;background-image:url('Images/cub_b.jpg');background-position:center left;background-repeat:no-repeat;
+                 padding: 2px 30px 2px 11px;/* width:40px; */}
+.rootselbtn a   {font-size: 12px;font-weight: bold;color: #01427d;text-decoration: underline;font-family: Georgia, "Times New Roman", Times, serif;}
+.actionIcon     {border:0px;margin:0px 3px 0px 2px;padding:0px;	width:11px;	height:11px;}
+.bigActionLink  {text-decoration:underline;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#386BB8;text-align:center;}
+.smallProduct   {border:1px #DAEAF1 solid;background:#FFFFFF;width:100%;}
+.whitebg        {background:#FFFFFF !important;}
+.greyborder     {border:#CCCCCC 1px solid;}
+.greyborder td  {background:#F5F5F5 !important;}
+.popupDragger   {background:#99C6EF;}
+
+.email table {width:670px; clear:both;}
+.email td {padding:10px; border-bottom:1px dotted #ccc; text-align:left;}
+.email td.note {padding-bottom:15px;}
+.email td.label {width:130px;}
+
+
+.txtsingle {padding:2px 2px 2px 3px; border:1px solid #ccc; background-color:#f4f4f4; display:inline;}
+.txtsingle:focus {border:1px solid #bbb;}
+
+.txtmulti {margin:0; padding:5px; border:1px solid #ccc; background-color:#f4f4f4; float:left; display:inline;}
+.txtmulti:focus {border:1px solid #bbb;}
+
+.w30 {width:30px;}
+.w50 {width:50px;}
+.w70 {width:70px;}
+.w100 {width:100px;}
+.w120 {width:120px;}
+.w150 {width:150px;}
+.w200 {width:200px;}
+.w300 {width:300px;}
+.w350 {width:350px;}

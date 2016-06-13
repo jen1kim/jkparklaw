@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/Admin" title="Home"  description="">
+        <siteMapNode url="~/Admin/Catalog/Sections/Sections.aspx" title="Sections - Master"  description="Master Sections" >
+          <siteMapNode  url="~/Admin/Catalog/Sections/Categories.aspx" title="Categories"  description="Categories" />
+        </siteMapNode>
+        <siteMapNode url="~/Admin/Catalog/Contents/Contents.aspx" title="Contents"  description="Contents" >
+          <siteMapNode  url="~/Admin/Catalog/Contents/AddContent.aspx" title="Add Content"  description="Add Content" />
+        </siteMapNode>
+      <siteMapNode url="~/Admin/News/NewsList.aspx" title="News"  description="News" >
+      </siteMapNode>
+      <siteMapNode url="~/Admin/Board/BoardList.aspx" title="Case Success"  description="Case Success" >
+      </siteMapNode>
+      <siteMapNode url="~/Admin/Member/Members.aspx" title="Status"  description="Status" >
+        <siteMapNode  url="~/Admin/Member/CreateMember.aspx" title="Add Member"  description="Add Member" />
+      </siteMapNode>
+      <siteMapNode url="~/Admin/Other/OtherList.aspx" title="Press"  description="Press" >
+      </siteMapNode>
+      <siteMapNode url="" title="Misc"  description="Misc" >
+        <siteMapNode  url="~/Admin/Email/Counselings.aspx" title="Email Counselings"  description="Email Counselings" />
+        <siteMapNode  url="~/Admin/Case/Cases.aspx" title="Latest Approved Cases"  description="Latest Approved Cases" />
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>

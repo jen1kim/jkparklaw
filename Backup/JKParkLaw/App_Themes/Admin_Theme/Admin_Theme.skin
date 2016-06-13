@@ -1,0 +1,35 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:GridView  runat="server" AllowPaging="True" AllowSorting="True" SkinID="GridView" Width="100%"  EmptyDataText="No item was found." 
+    AutoGenerateColumns="False" CssClass="GridViewStyle" GridLines="None"> 
+    <RowStyle CssClass="RowStyle" /> 
+    <EmptyDataRowStyle CssClass="EmptyRowStyle" /> 
+    <PagerStyle CssClass="PagerStyle" /> 
+    <SelectedRowStyle CssClass="SelectedRowStyle" /> 
+    <HeaderStyle CssClass="HeaderStyle" /> 
+    <EditRowStyle CssClass="EditRowStyle" /> 
+    <AlternatingRowStyle CssClass="AltRowStyle" /> 
+    <PagerSettings  FirstPageText="&laquo;" LastPageText="&raquo;" Mode="NumericFirstLast" PageButtonCount="10" />
+</asp:GridView>
+<asp:LinkButton  runat="server" CssClass="normalLink" SkinID="normalLink"></asp:LinkButton>
+
+<asp:TreeView runat="server" CssClass="treeView" SkinID="TreeView" >
+    <HoverNodeStyle  CssClass="treeViewNodeHover"  />
+    <NodeStyle CssClass="treeViewNode" HorizontalPadding="1px" NodeSpacing="1px" VerticalPadding="1px"    />
+    <RootNodeStyle CssClass="treeViewRootNode" />
+    <SelectedNodeStyle CssClass="treeViewNodeSelected" />					
+</asp:TreeView>

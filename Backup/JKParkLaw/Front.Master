@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Front.master.cs" Inherits="JKParkLaw.Front" %>
+
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="ajaxToolKit" %>
+
+<%@ Register src="~/Controls/Site/RootMenu.ascx" tagname="RootMenu" tagprefix="uc1" %>
+<%@ Register src="~/Controls/Site/LeftMenu.ascx" tagname="LeftMenu" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Law Offices of Jonathan K. Park and Associates</title>
+    <script type="text/javascript" src="<%# this.AppPath %>/js/jquery/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="<%# this.AppPath %>/js/jquery/jquerycssmenu.js"></script>
+    <!--[if lte IE 7]>
+    <style type="text/css">
+    html .jquerycssmenu{height: 1%;} /*Holly Hack for IE7 and below*/
+    </style>
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+    <div id="header" class='<%= this.HeaderStyle %>'>
+        <!-- root menu-->
+        <uc1:RootMenu ID="RootMenu1" runat="server" />
+    </div>
+    <div id="container">
+        <div id="content">
+            <div class="tl"></div>
+            <div class="tr"></div>
+            <div class="bl"></div>
+            <div class="br"></div>
+            <div id="sidebar">
+                <!-- left menu-->
+                <uc2:LeftMenu ID="LeftMenu1" runat="server" />
+            </div>
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+            </div>
+            
+            <div class="clear"></div>
+
+        </div>    
+    </div>
+    <div id="footer">
+		<p class="address">3699 Wilshire Blvd. Suite 1130, Los Angeles, CA 90010<br />T. 213-380-1238 &nbsp;F. 213-380-1288 </p>
+		<p class="copyright"><strong>Copyright www.jkparklaw.com  All Rights Reserved.</strong><br />Powered by <a href="http://www.siesoft.com" target="_blank">SIESOFT</a>.</p>
+	</div>  
+    </form>
+</body>
+</html>

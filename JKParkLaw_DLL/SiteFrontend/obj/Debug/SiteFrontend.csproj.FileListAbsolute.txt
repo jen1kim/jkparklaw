@@ -1,0 +1,32 @@
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.dll
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.pdb
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.dll
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\NLog.dll
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.pdb
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\NLog.xml
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\ResolveAssemblyReference.cache
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.dll
+C:\VSTest\JKParkLaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.pdb
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.dll
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.pdb
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.dll
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.pdb
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\NLog.xml
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\ResolveAssemblyReference.cache
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.dll
+C:\taegil\Projects\JKParkLaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.pdb
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.dll
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.pdb
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.dll
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.pdb
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\bin\Debug\NLog.xml
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.dll
+C:\Projects\jkparklaw\jkparklaw\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.pdb
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.dll
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\bin\Debug\SiteFrontend.pdb
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.dll
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\bin\Debug\DBBase.pdb
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.csprojResolveAssemblyReference.cache
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.dll
+D:\2016-Project\jkparklaw 20120102\jkparklaw-20160518\JKParkLaw_DLL\SiteFrontend\obj\Debug\SiteFrontend.pdb

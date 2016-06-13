@@ -1,0 +1,7 @@
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\bin\Debug\FredCK.FCKeditorV2.dll
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\bin\Debug\FredCK.FCKeditorV2.pdb
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\bin\Debug\eStoreBase.dll
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\bin\Debug\eStoreBase.pdb
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\obj\Debug\ResolveAssemblyReference.cache
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\obj\Debug\FredCK.FCKeditorV2.dll
+C:\KBS\KBS\eStore_DLL\FredCK.FCKeditorV2\obj\Debug\FredCK.FCKeditorV2.pdb

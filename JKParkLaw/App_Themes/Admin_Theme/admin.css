@@ -1,0 +1,165 @@
+/*@charset "utf-8"; */
+
+/* -----------------------------------------------------------------
+Site : ECWireless
+----------------------------------------------------------------- */
+
+
+
+/* -----------------------------------------------------------------
+PAGE STRUCTURE
+----------------------------------------------------------------- */
+
+#blackbar {width:100%; height:5px; background:#000000;}
+#wrapper {width:920px; background:url(../images/warp.gif); margin:0px auto;}
+#header {width:900px; height:74px; margin:0px auto; background:url(../images/header_bg.png); position:relative;}
+#header_login {position:absolute; top:50px; right:20px;}
+#container {width:900px; background:url(../images/container_bg.jpg); margin:0px auto;}
+#main {width:900px; padding:0px; margin:0px auto; background:url(../images/main_contents_bg.jpg) no-repeat;}
+#sub_banner{width:900px; height:100px; margin:0px auto; background:url(../images/sub_banner1.jpg); position:relative;}
+#contents{width:900px; padding:0px; margin:0px auto; background:url(../images/sub_contents1.jpg) no-repeat; position:relative;}
+#footer {width:900px; height:60px; background:#f3f3f3; border-top:#CCCCCC solid 1px; border-bottom:#cccccc solid 1px; margin:0px auto; position:relative; clear:both; }
+
+#image { margin: 0 20px; float:left;}
+#contents .sideframe {position:absolute; top:40px; left:350px;}
+/* -----------------------------------------------------------------
+Header
+----------------------------------------------------------------- */
+
+/* -----------------------------------------------------------------
+Main
+----------------------------------------------------------------- */
+#main_banner{width:900px; height:320px; margin:0px auto; background:url(../images/main_banner.jpg); position:relative;}
+#main_signup{width:75px; height:35px; background:url(../images/bt_signup1.png); position:absolute; left:580px; top:240px;}
+#main_login {width:210px; height:130px; padding-top:40px; padding-left:10px; background:url(../images/main_login.png); position:absolute; left:666px; top:105px;}
+#main_loginbt{width:75px; height:35px; background:url(../images/bt_login1.png); position:absolute; right:0px; bottom:0px;}
+
+.form_label {margin-left:40px;}
+.form_box {margin-left:80px;}
+.form_check {float:left;}
+.form_btn {margin:20px 0px 0px 80px;}
+
+.editTable {width:660px;}
+.editTable th {padding:2px 15px; border-top:1px solid #bbb; border-bottom:1px solid #bbb; background-color:#CCFFFF; vertical-align:middle;}
+.editTable td {padding:2px 15px;  border-bottom:1px solid #bbb;}
+
+.headerTable {background-color:Silver; }
+.headerTable th {padding:2px 15px; border-top:0px solid #bbb; border-bottom:0px solid #bbb; background-color:#999999; vertical-align:middle;}
+.headerTable td {padding:2px 15px;  border-bottom:0px solid #bbb;}
+
+.LeftTable {background-color:Silver; }
+.LeftTable th {padding:2px 2px; border-top:0px solid #bbb; border-bottom:0px solid #bbb; background-color:#999999; vertical-align:middle;}
+.LeftTable td {padding:2px 2px;  border-bottom:0px solid #bbb;}
+
+.searchTable {width:800px;background-color:WhiteSmoke;}
+.searchTable th {padding:2px 2px; border-top:0px solid #bbb; border-bottom:0px solid #bbb; background-color:#999999; vertical-align:middle;}
+.searchTable td {padding:2px 2px;  border-bottom:0px solid #bbb;}
+
+.excelTable {width:800px;background-color:WhiteSmoke; }
+.excelTable th {padding:2px 2px; border-top:1px solid #bbb; border-bottom:1px solid #bbb; background-color:#999999; vertical-align:middle;}
+.excelTable td {padding:2px 2px; border-bottom:1px solid #bbb;}
+
+.inputTable {width:700px;}
+.inputTable th {padding:2px 5px; border-top:0px solid #bbb; border-bottom:0px solid #bbb; background-color:#CCFFFF; vertical-align:middle;}
+.inputTable td {padding:2px 5px;  border-bottom:0px solid #bbb; ; vertical-align:top;}
+
+
+/* -------------------------------------
+Login Box
+------------------------------------- */
+.login_title        {width: 100%;margin: 0;padding: 20px 0;background-color: #2E4d7B;
+                     border: 0px solid #2E4d7B;font: bold 13px Arial, Verdana, Sans-Serif;letter-spacing: 1px;
+                     text-align: center;color: #fff;}
+
+/* -----------------------------------------------------------------
+Footer
+----------------------------------------------------------------- */
+#footer a{color:#666; text-decoration:none;} 
+#footer ul{position:absolute; top:25px; right:20px}
+#footer ul li{
+	display:inline;
+	color:#666;
+	letter-spacing:-1px;
+	font-weight:bold;
+	padding:0 10px 0 15px;
+	background:url(../images/footer_menu_bg.gif) no-repeat 0 0;
+}
+
+#footer ul li.first{
+	padding:0 10px 0 0;
+	background:none;
+}
+
+/* -----------------------------------------------------------------
+Custom Classes
+----------------------------------------------------------------- */
+.hr {height:2px; margin:0 auto; background:url(../images/hr.gif); clear:both;}
+.hidden {display:none;}
+.space {height:20px; clear:both;}
+.space10 {height:10px; clear:both;}
+
+.txtsingle {margin:0 5px 0 0; padding:2px 2px 2px 3px; border:1px solid #bbb; background:#f4f4f4 repeat-x; float:left; display:inline;}
+.txtsingle:focus {border:1px solid #999;}
+
+.txtmulti {margin:0; padding:5px; border:1px solid #bbb; font: 13px Arial, Verdana, Sans-Serif;background:#f4f4f4 repeat-x; float:left; display:inline;}
+.txtmulti:focus {border:1px solid #999;}
+
+.w10 {width:10px;}
+.w20 {width:20px;}
+.w30 {width:30px;}
+.w50 {width:50px;}
+.w60 {width:60px;}
+.w70 {width:70px;}
+.w80 {width:80px;}
+.w90 {width:90px;}
+.w100 {width:100px;}
+.w120 {width:120px;}
+.w150 {width:150px;}
+.w156 {width:156px;}
+.w200 {width:200px;}
+.w210 {width:207px;}
+.w250 {width:250px;}
+.w280 {width:280px;}
+.w300 {width:300px;}
+.w350 {width:350px;}
+.w400 {width:400px;}
+.w420 {width:420px;}
+.w500 {width:500px;}
+.w600 {width:600px;}
+
+
+
+.select {font-size: 12px ;font-weight: normal; color: #333333; text-decoration: none;	font-family: "µ∏øÚ", "πŸ≈¡", "Lucida Sans Unicode", "Lucida Grande", "Verdana", "Arial", "Sans-Serif";	width: 60px;	height: 20px;}
+
+.commandButton      {font-size:13px;font-weight:bold;height:25px}
+.tabs                   {display:block;text-decoration:none;text-align:center;padding:3px 8px 3px 8px;
+                         margin:2px 4px 1px 4px;background:#C6DBEA;color:#4673BD;font-weight:bold;}
+.tabs-current           {display:block;text-decoration:none;text-align:center;padding:3px 8px 3px 8px;
+                         margin:2px 4px 1px 4px;background:#FFFF00;color:#4673BD;font-weight:bold;}
+
+.styleGrid          {border: #cccccc 1px solid;padding: 2px 2px 2px 2px}
+.styleGridLink      {color: #3366cc;text-decoration: none;}
+
+.txtsinglewhite {margin:0 5px 0 0; padding:2px 2px 2px 3px; border:1px solid #bbb; repeat-x; float:left; display:inline;}
+
+
+
+
+.gridTable {width:800px;background-color:WhiteSmoke; }
+.gridTable th {padding:2px 2px; border-top:1px solid #bbb; border-bottom:1px solid #bbb; background-color:#C0C0C0; vertical-align:middle;}
+.gridTable td {padding:2px 2px; border-bottom:1px solid #bbb;}
+
+.lineTable              {font-size:11px;width:100%;font-family:Verdana, Arial, Helvetica, sans-serif;border-width:1px;
+                         border-spacing:0px;border-collapse: collapse;border-color: Gray;border-style: outset;}
+.lineTable td           {border-width: 1px;padding: 1px;border-style: inset;border-color: gray;text-align:center;}
+.lineTable th           {border-width: 1px;padding: 1px;border-style: inset;border-color: gray;background-color: #D9D5CE;text-align:center;}
+.lineTable .align-middle {text-align:center;}
+
+
+.nolineTable              {font-size:11px;width:100%;font-family:Verdana, Arial, Helvetica, sans-serif;border-width:0px;
+                          border-spacing:0px;border-collapse: collapse;0}
+.nolineTable td           {border-width: 0px;padding: 0px;border-style: inset;border-color: gray;text-align:center;}
+.nolineTable th           {border-width: 0px;padding: 0px;border-style: inset;border-color: gray;background-color: #CCCCFF;text-align:center;}
+
+
+

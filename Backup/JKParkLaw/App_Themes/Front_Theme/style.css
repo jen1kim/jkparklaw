@@ -1,0 +1,263 @@
+@charset "utf-8";
+/* -----------------------------------------------------------------
+Site : Law Offices of Jonathan Park 
+----------------------------------------------------------------- */
+
+/* -----------------------------------------------------------------
+Reset
+----------------------------------------------------------------- */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, a img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0; padding:0; border:0; outline:0; font-size:100%; background:transparent; text-align:left;}
+body {line-height:1em;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after, q:before, q:after {content:''; content:none;}
+:focus {outline:0;}
+ins {text-decoration:none;}
+del {text-decoration:line-through;}
+table {border-collapse:collapse; border-spacing:0;} /* tables still need 'cellspacing="0"' in the markup */
+img, a img {-ms-interpolation-mode:bicubic;} /* IE Fix:Enables bicubic resizing for images. Use if scaling down images. */
+
+/* -----------------------------------------------------------------
+HTML
+----------------------------------------------------------------- */
+html {background-color:#d6e4ef;}
+body {width:100%; background:url(./images/bg_body.png) repeat-x;}
+body {color:#2a211d; font:12px "Dotum", Gulim, Arial, San-serif;}
+
+a:link, a:active, a:visited, a:focus {color:#0066ff; text-decoration:none;} 
+a:hover {color:#0066ff; text-decoration:underline;}/* color:#0066ff */
+
+h1, h3, h4, h5, h6 {font-weight:bold;}
+h1 {font-size:16px; line-height:20px; color:#000; font-family:"Malgun Gothic", "Dotum", Gulim, Arial, San-serif;}
+h1.bg {padding-left:13px; background:url(./images/bul.gif) 0px 7px no-repeat;}
+h2 {font-size:14px; line-height:18px; color:#000;}
+h3 {font-size:13px; line-height:17px; color:#000;}
+h4 {font-size:18px; line-height:20px; color:#000;}
+h5 {font-size:14px; line-height:18px; color:#000;}
+h6 {font-size:13px; line-height:18px; color:#000;}
+
+/* -----------------------------------------------------------------
+PAGE STRUCTURE
+----------------------------------------------------------------- */
+#header {position:relative; width:970px; height:300px; margin:0 auto; clear:both;}
+#header.home {background:url(./images/banner.jpg);}
+#header.sub {background:url(./images/banner_sub.jpg);}
+#container {clear:both;}
+#content {position:relative; width:930px; margin:0 auto; padding:0 20px; background:url(./images/bg_content.gif) repeat-y; clear:both;}
+#content .tl {position:absolute; top:0; left:0; width:20px; height:70px; background:url(./images/bg_content_tl.gif) no-repeat;}
+#content .tr {position:absolute; top:0; right:0; width:20px; height:70px; background:url(./images/bg_content_tr.gif) no-repeat;}
+#content .bl {position:absolute; bottom:0; left:0; width:20px; height:70px; background:url(./images/bg_content_bl.gif) no-repeat;}
+#content .br {position:absolute; bottom:0; right:0; width:20px; height:70px; background:url(./images/bg_content_br.gif) no-repeat;}
+#sidebar {width:200px; min-height:390px; padding:20px 10px 30px; float:left;}
+#main {width:670px; padding:20px 20px; float:left;background-color:#fff}
+#footer {position:relative; width:100%; height:70px; background:url(./images/footer.gif) top center no-repeat; clear:both;}
+
+/* -----------------------------------------------------------------
+Header
+----------------------------------------------------------------- */
+#header .logo {position:absolute; top:20px; left:20px;}
+#header .top_home {position:absolute; width:42px; height:17px; top:20px; right:83px;}
+#header .top_contact {position:absolute; width:60px; height:17px; top:20px; right:23px; border:}
+
+/* put this back on and hide next line when adding back case studies menu
+#header .jquerycssmenu {position:absolute; width:670px; height:30px; top:45px; left:285px;}*/
+#header .jquerycssmenu {position:absolute; width:670px; height:30px; top:45px; left:300px;}
+#header .jquerycssmenu a {font-size:11px; color:#00346a; text-decoration:none;}
+#header .jquerycssmenu a:hover {color:#0066ff;}
+#header .jquerycssmenu ul {list-style:none;}
+
+/*Top level list items*/
+#header .jquerycssmenu ul li {position:relative; display:inline; float:left;}
+#header .jquerycssmenu ul li a {display:block;}
+
+#header .jquerycssmenu ul li a.about {width:77px; margin-right:35px; background:url(./images/nav.png) 0px 0px no-repeat;}
+#header .jquerycssmenu ul li a.services {width:61px; margin-right:35px; background:url(./images/nav.png) -100px 0px no-repeat;}
+#header .jquerycssmenu ul li a.progress {width:93px; margin-right:35px; background:url(./images/nav.png) -177px 0px no-repeat;}
+#header .jquerycssmenu ul li a.email {width:77px; margin-right:35px; background:url(./images/nav.png) -388px 0px no-repeat;}
+#header .jquerycssmenu ul li a.news {width:69px; background:url(./images/nav.png) -562px 0px no-repeat;}
+#header .jquerycssmenu ul li a.other {width:53px; margin-right:35px; background:url(./images/nav.png) -484px 0px no-repeat;}
+
+#header .jquerycssmenu ul li a.about:hover {background:url(./images/nav.png) 0px -30px no-repeat;}
+#header .jquerycssmenu ul li a.services:hover {background:url(./images/nav.png) -100px -30px no-repeat;}
+#header .jquerycssmenu ul li a.progress:hover {background:url(./images/nav.png) -177px -30px no-repeat;}
+#header .jquerycssmenu ul li a.email:hover {background:url(./images/nav.png) -388px -30px no-repeat;}
+#header .jquerycssmenu ul li a.news:hover {background:url(./images/nav.png) -562px -30px no-repeat;}
+#header .jquerycssmenu ul li a.other:hover {background:url(./images/nav.png) -484px -30px no-repeat;}
+
+/* put this back on and hide above section when adding back case studies menu
+#header .jquerycssmenu ul li a.about {width:77px; margin-right:20px; background:url(./images/nav.png) 0px 0px no-repeat;}
+#header .jquerycssmenu ul li a.services {width:61px; margin-right:20px; background:url(./images/nav.png) -100px 0px no-repeat;}
+#header .jquerycssmenu ul li a.progress {width:93px; margin-right:20px; background:url(./images/nav.png) -177px 0px no-repeat;}
+#header .jquerycssmenu ul li a.case {width:82px; margin-right:20px; background:url(./images/nav.png) -287px 0px no-repeat;}
+#header .jquerycssmenu ul li a.email {width:77px; margin-right:20px; background:url(./images/nav.png) -388px 0px no-repeat;}
+#header .jquerycssmenu ul li a.news {width:59px; margin-right:20px; background:url(./images/nav.png) -484px 0px no-repeat;}
+#header .jquerycssmenu ul li a.other {width:69px; background:url(./images/nav.png) -562px 0px no-repeat;}
+
+#header .jquerycssmenu ul li a.about:hover {background:url(./images/nav.png) 0px -30px no-repeat;}
+#header .jquerycssmenu ul li a.services:hover {background:url(./images/nav.png) -100px -30px no-repeat;}
+#header .jquerycssmenu ul li a.progress:hover {background:url(./images/nav.png) -177px -30px no-repeat;}
+#header .jquerycssmenu ul li a.case:hover {background:url(./images/nav.png) -287px -30px no-repeat;}
+#header .jquerycssmenu ul li a.email:hover {background:url(./images/nav.png) -388px -30px no-repeat;}
+#header .jquerycssmenu ul li a.news:hover {background:url(./images/nav.png) -484px -30px no-repeat;}
+#header .jquerycssmenu ul li a.other:hover {background:url(./images/nav.png) -562px -30px no-repeat;}
+*/
+
+/*1st sub level menu*/
+#header .jquerycssmenu ul li ul {position:absolute; left:0; display:block; visibility:hidden;}
+#header .jquerycssmenu ul li ul li {display:list-item; float:none;}
+#header .jquerycssmenu ul li ul li ul {top:0;}
+#header .jquerycssmenu ul li ul li a {width:110px; background:#fff; padding:5px 8px; border-top:1px solid #cee5ff;}
+#header .jquerycssmenu ul li ul li a:hover{background:#d9ebff;}
+
+/* -----------------------------------------------------------------
+Footer
+----------------------------------------------------------------- */
+#footer .address {position:absolute; width:450px; left:50%; margin-left:-458px; padding-top:15px; font:11px/15px "Times New Roman", Times, serif; color:#0066ff; text-align:left; display:none;}
+#footer .copyright {position:absolute; width:465px; left:50%; padding-top:15px; font:10px/14px Georgia, "Times New Roman", Times, serif; color:#0066ff; text-align:right; display:none;}
+
+/* -----------------------------------------------------------------
+Sidebar
+----------------------------------------------------------------- */
+#sidebar a:link, #sidebar a:active, #sidebar a:visited, #sidebar a:focus {color:#0b1821; text-decoration:none;} 
+#sidebar a:hover {color:#0066ff; text-decoration:none;}
+#sidebar ul {list-style:none; font-weight:bold;}
+#sidebar a {display:block; width:185px; height:18px; margin-bottom:7px; padding:6px 0 0 15px; background:url(./images/sidebar_bg.gif) 0px 0px no-repeat;}
+/* #sidebar a {display:block; width:185px; height:25px; margin-bottom:10px; padding:15px 0 0 15px; background:url(./images/sidebar_bg.gif) 0px 0px no-repeat;} */
+#sidebar li.current a {color:#0066ff; background:url(./images/sidebar_bg.gif) 0px -40px no-repeat;}
+#sidebar ul.subcat {padding-bottom:7px;}
+#sidebar ul.subcat li {width:175px; height:18px; margin-bottom:3px; padding:0 0 0 25px; background:url(./images/bul_subcat.gif) 15px 3px no-repeat; font-weight:normal; line-height:16px;}
+#sidebar ul.subcat a {display:inline; margin:0; padding:0; background:none;}
+#sidebar ul.subcat a.on {font-weight:bold; color:#000; text-decoration:none;}
+
+/* -----------------------------------------------------------------
+Home
+----------------------------------------------------------------- */
+#main .intro {position:relative; width:670px; height:130px; background:url(./images/intro_bg.png) top left no-repeat;}
+#main .intro h1, #main .intro p {text-indent:-9999px;}
+#main .intro .readmore {position:absolute; top:94px; left:267px;}
+
+#main .latestnews {width:450px; float:left; background:url(./images/divider.gif) 430px 10px no-repeat;}
+#main .latestnews a:link, #main .latestnews a:active, #main .latestnews a:visited, #main .latestnews a:focus {color:#333; text-decoration:none;} 
+#main .latestnews a:hover {color:#0066ff; text-decoration:underline;}
+#main .latestnews ul {width:370px; height:150px; padding:20px; background:#f3f3f3 url(./images/news_bg.jpg) top left no-repeat;}
+#main .latestnews ul {list-style:none;}
+#main .latestnews ul span {color:#0066ff; padding-right:10px;}
+#main .latestnews li {display:block; height:23px; padding:6px 0 0 0; line-height:20px; border-bottom:1px dotted #ccc; overflow:hidden;}
+
+#main .links {width:160px; height:170px; padding:70px 20px 0; list-style:none; background:url(./images/links_bg.png) top left no-repeat; float:right;}
+#main .links li {width:155px; height:40px; margin-bottom:7px;}
+
+/* -----------------------------------------------------------------
+Sub
+----------------------------------------------------------------- */
+#main.about .pic {padding:5px; border:1px solid #ddd; float:left;}
+#main.about .address td {padding:3px 0;}
+#main.about .address td.label {font-weight:bold; padding-left:14px;}
+#main.about p {padding:0 0 0 14px;}
+
+#main .menu {width:640px; padding:10px 10px 15px; background:#f3f3f3 url(./images/menu_bg.jpg) 0px 0px no-repeat; clear:both;}
+#main .menu ul {list-style:none;}
+#main .menu li {width:270px; height:16px; padding:5px 25px; border-bottom:1px dotted #ccc; background:url(./images/bul2.gif) 10px 12px no-repeat; overflow:hidden; float:left;}
+#main .menu li {line-height:18px;}
+#main .menu li.current {background:url(./images/bul2_on.gif) 10px 12px no-repeat;}
+#main .menu li.current a {color:#0066ff; font-weight:bold;}
+#main .menu a:link, #main .menu a:active, #main .menu a:visited, #main .menu a:focus {color:#000; text-decoration:none;} 
+#main .menu a:hover {color:#0066ff; text-decoration:none;}
+#main .read h2 {min-height:14px; padding:5px 0 5px 12px; border-top:3px solid #f3f3f3; border-bottom:3px solid #f3f3f3; background:url(./images/bul3.gif) 0px 10px no-repeat;}
+#main .read .text {padding:10px 10px 30px 0; line-height:17px;}
+#main .read .text p {margin:0 0 15px 0;}
+#main .read .disclaimer {font-size:11px; line-height:14px; padding-top:10px; border-top:1px solid #ddd; color:#666;}
+
+#main .news .newshead {margin-bottom:15px; padding:10px 15px; border:1px solid #ddd; background:#eee;}
+#main .news .newshead h3 {display:block; width:550px; padding-left:10px; background:url(./images/bul3.gif) 0px 4px no-repeat; float:left;}
+#main .news .date {display:block; padding-top:2px; color:#666; float:right;}
+#main .news .text {padding:0px 10px 20px 0; line-height:17px;}
+#main .news .text p {margin:0 0 15px 0;}
+
+#main .newslist {margin-bottom:10px;}
+#main .newslist th {height:25px; border-top:1px solid #ddd; border-bottom:1px solid #ddd; background-color:#eee; text-align:center;}
+#main .newslist td {padding:3px 0; border-bottom:1px solid #ddd; line-height:16px;}
+
+#main .paging img {vertical-align:middle;}
+
+#main .casestudy .caselist {list-style:none; border-top:1px dotted #ddd;}
+#main .casestudy .caselist li {display:block; padding:1px 0px; border-bottom:1px dotted #ddd;}
+#main .casestudy .caselist li div {padding:10px 20px; background:#f4f4f4 url(./images/bul2_on.gif) 10px 16px no-repeat;}
+#main .casestudy a:link, #main .casestudy a:active, #main .casestudy a:visited, #main .casestudy a:focus {color:#000; font-weight:bold; text-decoration:none;} 
+#main .casestudy a:hover {color:#0066ff; text-decoration:underline;}
+
+#main .email table {width:670px; clear:both;}
+#main .email td {padding:10px; border-bottom:1px dotted #ccc; text-align:left;}
+#main .email td.note {padding-bottom:15px;}
+#main .email td.label {width:130px;}
+
+#main .login {width:300px; padding:20px; background-color:#eee;}
+#main .login td {padding:5px;}
+#main .status th {height:25px; border-top:1px solid #ddd; border-bottom:1px solid #ddd; background-color:#eee; text-align:center;}
+#main .status td {padding:10px; border-bottom:1px solid #ddd;}
+
+/* -----------------------------------------------------------------
+Custom Classes
+----------------------------------------------------------------- */
+.hr {width:100%; height:10px; margin:5px 0; background:url(./images/hr.gif) repeat-x; clear:both;}
+
+.align-left  {text-align:left;}
+.align-right {text-align:right;}
+.align-center {text-align:center;}
+.valign-middle {vertical-align:middle;}
+
+.clear {float:none; clear:both;}
+.left {float:left; display:inline;}
+.right {float:right; display:inline;}
+
+.border {border:1px solid #000;}
+.border-top {border-top:1px dotted #c793ac;}
+.border-bottom {border-bottom:1px dotted #c793ac;}
+
+.space5 {height:5px; clear:both;}
+.space10 {height:10px; clear:both;}
+
+.note {font-size:11px; color:#666; font-weight:normal; line-height:15px;}
+.notice {color:#d30041; font-weight:normal; padding:2px 5px 0 0; display:block; float:left;}
+.error {color:#d30041; font-weight:bold;}
+.small {font-size:11px;}
+.quite {color:#ddc0ce;}
+.loud {color:#bc005d;}
+.hidden {display:none;}
+
+.txtsingle {padding:2px 2px 2px 3px; border:1px solid #ccc; background-color:#f4f4f4; font:12px "Dotum", Gulim, Arial, San-serif; display:inline;}
+.txtsingle:focus {border:1px solid #bbb;}
+
+.txtmulti {margin:0; padding:5px; border:1px solid #ccc; background-color:#f4f4f4; font:12px/18px "Dotum", Gulim, Arial, San-serif; float:left; display:inline;}
+.txtmulti:focus {border:1px solid #bbb;}
+
+.w30 {width:30px;}
+.w50 {width:50px;}
+.w70 {width:70px;}
+.w100 {width:100px;}
+.w120 {width:120px;}
+.w150 {width:150px;}
+.w200 {width:200px;}
+.w300 {width:300px;}
+.w350 {width:350px;}
+
+/* SUCCESS BOARD */
+body {font-family:Arial, Helvetica, sans-serif;}
+.boardList,.boardDetail table {width:669px;border-collapse:collapse;}
+	.boardList th {border:solid 1px #fff;background:#032774 url(images/bg_boardlist_hd.png) repeat-x;padding:6px 0;color:#fff;text-align:center}
+	.boardList td {border-bottom:solid 1px #e6e6e6;padding:8px;text-align:center}
+	.boardList td.textLeft {text-align:left}
+	.boardList a {text-decoration:none;color:#000;}
+	.boardList a:hover {color:#194085;}
+	.pagination {text-align:center;padding:15px 0;}
+	.pagination a {padding:3px 5px;}
+	.pagination a img {vertical-align:middle}
+	.pagination a.active {font-weight:bold;color:#09c;}
+	
+.boardDetail, .boardDetail table {margin-bottom:10px;}	
+	.boardDetail th {background:#032774 url(images/bg_boardlist_hd.png) repeat-x;padding:6px;color:#fff;text-align:left;}
+	.boardDetail td {border-bottom:solid 1px #ccc;padding:8px 8px 40px 8px;line-height:1.5em;}
+	
+.sort {margin-bottom:8px;}
+	.sort a {display:block;float:left;background:url(Images/cate_success.png) top left;width:125px;line-height:30px;margin-right:5px;text-align:center;color:#000;}
+	.sort a:hover, .sort a.active {text-decoration:none;background-position:bottom left;color:#fff}
+

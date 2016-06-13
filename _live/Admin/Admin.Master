@@ -1,0 +1,61 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="JKParkLaw.Admin.Master" %>
+
+<%@ Register src="~/Admin/Controls/Info/LeftMenu.ascx" tagname="LeftMenu" tagprefix="uc1" %>
+<%@ Register src="~/Admin/Controls/Info/RootMenu.ascx" tagname="RootMenu" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title id="TitleTag" runat="server">Administration</title>
+     <!-- Bootstrap core CSS -->
+    <link href="/lib/css/bootstrap.min.css" rel="stylesheet">
+     <!-- Custom styles for this template -->
+    <link href="/css/dashboard.css" rel="stylesheet">
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="/lib/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <!-- start of subheader -->
+    <uc2:RootMenu ID="RootMenuuc" runat="server" />
+	<!-- end of subheader -->
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">        
+           <uc1:LeftMenu ID="LeftMenuuc" runat="server" />
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h2><asp:Label ID="SectionNamelbl" runat="server" Text="Administration"></asp:Label></h2> 
+          <h3><asp:Label ID="SubSectionName" runat="server" ></asp:Label></h3> 
+         <asp:ContentPlaceHolder ID="AdminPlaceHolder" runat="server" >
+         </asp:ContentPlaceHolder>   
+
+        </div>
+      </div>
+    </div>
+
+
+    <%--<tr>
+        <td width="250px" style="background-color: silver">
+            <h3><asp:Label ID="SectionNamelbl" runat="server" Text="Administration" /></h3>
+        </td>
+        <td style="background-color: silver"><h4>::&nbsp;&nbsp;<asp:Label ID="SubSectionName" runat="server" ></asp:Label></h4></td>
+    </tr>--%>
+
+</form>
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/lib/js/jquery-1.12.3.min.js"></script>
+    <script src="/lib/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/lib/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
+    
+   

@@ -1,0 +1,53 @@
+.editTable              {font-size:11px;	width:100%;	font-family:Verdana, Arial, Helvetica, sans-serif;}
+.editTable .head        {background: url("Images/dot.jpg");background-position:1% 50%;background-repeat:no-repeat;padding:3px 3px 1px 25px;
+                         font-family:Arial, Helvetica, sans-serif;background-color:#F5F9FC;font-size:13px;}
+.editTable .secondHead  {background-color:#F5F5F5;background-image: url("Images/cub_b.jpg");background-repeat:no-repeat;background-position:1% 50%;
+	                     padding:5px 5px 5px 20px;width:100%;}
+.editTable .headComplete{padding:3px 3px 1px 3px;font-family:Arial, Helvetica, sans-serif;background-color:#F5F9FC;font-size:13px;}
+.editTable .alternate1  {background:#F9F9F9;}
+.editTable .alternate2  {background:#ABB1E0;}
+.editTable .treeview    {padding-left:10px;}
+.editTable td           {padding-left:10px;}
+.editTable .name        {padding-left:10px;height:25px;}
+.editTable strong       {   }
+.editTable .editInput   {font-size:12px;border:1px #D8D6D6 solid;color:#333333;height:20px; text-align:left;}
+.editTable .editSubmit  {font-size:12px;border:1px #D8D6D6 solid;color:#333333;}
+.editTable .select      {font-size:13px;border:1px #D8D6D6 solid;}
+.editTable .multiselect {font-size:13px;border:1px #D8D6D6 solid;}
+.editTable .numericalUpDownInput    {font-size:14px;padding:1px;}
+.editTable .numericalUpDown         {font-size:10px;border:0px;border:1px #557484 solid;}
+.editTable .specName    {background:#F5F5F5;}
+.editTable .specValue   {}
+.editTable .specCategory{background:#DAE9E3;color:#436167;}
+.editTable .specCatCategory         {color:#3270AD;font-weight:bold;}
+.editTable .mediumLinks {font-size:12px;text-decoration:underline;color:#688DBB;}
+.editTable .normalLinks {font-size:12px;text-decoration:underline;color:#688DBB;}
+.editTable .largeLinks  {font-size:13px;text-decoration:underline;color:#688DBB;font-weight:bold;}
+.editTable .commandButton      {font-size:13px;font-weight:bold;height:25px}
+.editTable .fileUpload  {font-size:12px;height:20px}
+.editTable .bigActionLink{text-decoration:underline;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#386BB8;text-align:center;}
+.editTable .align-right {text-align:right}
+
+.editTable .addNewToogle{background-color:#EFFAF0;}
+.editTable .addNewToogle a  {font-size:13px;text-decoration:underline;color:#688DBB;font-weight:bold;} 
+
+.reorderTable           {display:table;padding:1px 10px 10px 5px;width:99%;}
+.reorderTable ul        {margin:0;margin-top:10px;padding:0;list-style-type: none;}
+.reorderTable .dragHandler          {cursor:move;margin: 1px 4px 1px 4px ;border:0px;}
+.reorderTable ul li     {margin-bottom:2px;padding:2px 1px 0px 1px;background:#F0F4F9;color:#0B3B68;font-weight:bold;}
+.reorderTable ul li table,tr,td{margin:0; padding:0; border:0;}
+.reorderTable ul li a{color:#0B3B68;}
+
+.reorderTable .emptyData{margin:4px 0px 2px 15px;font-size:13px;font-weight:bold;color:#5798CC;}
+
+
+.tabs                   {display:block;height:15px;font-size:11px;text-decoration:none;text-align:center;padding:3px 8px 3px 8px;
+                         margin:2px 4px 1px 4px;background:#C6DBEA;color:#4673BD;font-weight:bold;}
+.handleImg              {background-image:url("Images/HandleGrip.png");cursor:se-resize;height:16px;overflow:hidden;
+                         width:16px;}
+
+.lineTable              {font-size:11px;width:100%;font-family:Verdana, Arial, Helvetica, sans-serif;border-width:1px;
+                         border-spacing:0px;border-collapse: collapse;border-color: Gray;border-style: outset;}
+.lineTable td           {border-width: 1px;padding: 1px;border-style: inset;border-color: gray;text-align:center;}
+.lineTable th           {border-width: 1px;padding: 1px;border-style: inset;border-color: gray;background-color: #CCCCFF;text-align:center;}
+.lineTable .align-middle {text-align:center;}

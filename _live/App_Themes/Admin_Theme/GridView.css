@@ -1,0 +1,140 @@
+﻿/*GridViewCSS Soft Grey Style*/
+.GridViewStyle
+{
+    font-family: Arial, Sans-Serif;
+    font-size:12px;
+    table-layout: auto;
+    border-collapse: collapse;
+    border:#FFFFFF 1px solid;
+}
+/*Header and Pager styles*/
+.HeaderStyle /*Common Styles*/
+{
+    background-color:#76AADB;
+	text-decoration:none;
+	font-family:"Trebuchet MS", "Times New Roman";
+	font-size:13px;
+    color:#ffffff;
+    text-align:left;
+	font-weight:bold;
+}
+.HeaderStyle td
+{	
+	
+}
+.HeaderStyle th
+{	
+	border:#FFFFFF 2px solid;
+    padding:5px 2px 5px 15px;
+    color: #ffffff;	
+}
+.HeaderStyle a
+{
+    text-decoration:underline;
+	font-family:"Trebuchet MS", "Times New Roman";
+	font-size:14px;
+    color:#ffffff;
+    display:block;
+    text-align:left;
+    font-weight:bold;
+}
+.PagerStyle
+{
+	background-color:#76AADB;
+	text-decoration:none;
+	font-family:"Trebuchet MS", "Times New Roman";
+	font-size:14px;
+    color:#ffffff;
+    text-align:left;
+	font-weight:bold;
+}
+.PagerStyle table
+{
+    text-align:center;
+    margin:auto;
+	font-size:14px;
+}
+.PagerStyle table td
+{
+    border:0px;
+}
+.PagerStyle td
+{
+   
+}
+.PagerStyle a
+{
+    color:#E3EAF4;
+	font-size:14px;
+	font-weight:bold;
+	font-family:"Trebuchet MS", "Times New Roman";
+	font-weight:bold;
+    color:#FFFFFF;
+    text-decoration:underline;
+    padding:2px 2px 2px 2px;
+}
+.PagerStyle span
+{
+    font-weight:bold;
+    color:#FFFFFF;
+    text-decoration:none;
+    padding:2px 5px 2px 5px;
+}
+/*RowStyles*/
+.RowStyle td
+{
+    padding: 5px;
+	font-family:"Trebuchet MS", "Times New Roman";
+	font-size:11px;
+    border-right: solid 2px #FFFFFF;
+	background-color:#F5F5F5;
+}
+.AltRowStyle td
+{
+	padding: 5px;
+	font-size:11px;
+	font-family:"Trebuchet MS", "Times New Roman";
+    border-right: solid 2px #FFFFFF;
+    background-color:#FFFFFF;
+}
+.RowStyle strong, .AltRowStyle strong
+{
+	color:#333333;
+	font-weight:bold;
+}
+.RowStyle a, .AltRowStyle a
+{
+	color:#3878B8;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+}
+.SelectedRowStyle a
+{
+	color:#3878B8;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+}
+.SelectedRowStyle td
+{
+	padding: 5px;
+    border-right: solid 2px #FFFFFF;
+    background-color: #D3DEE9;
+}
+.EditRowStyle td
+{
+	padding: 5px;
+    border-right: solid 2px #FFFFFF;
+	background-color: #D3DEE9;
+}
+.GridViewAction
+{
+	font-size: 11px;
+	font-weight: normal;
+	color: #01427D !important;
+	text-decoration: underline;
+	font-family: Arial;
+}
+.GridViewAction a
+{
+
+}

@@ -1,0 +1,75 @@
+/* -------------------------------------
+PAGE STRUCTURE
+------------------------------------- */
+
+#container_login    {width: 980px;	margin: 0 auto;padding: 0;background-color: #FFFFFF;}
+#container          {width: 980px;margin: 0 auto;padding: 0;
+                     background: #FFFFFF url(../img/bg_content.gif) repeat-y left top;clear: both;}
+#header             {width: 100%;	height: 100px;margin: 0;padding: 0;
+                     /* background: #322924 url(../img/hdr_admin.jpg) no-repeat left top; */
+                     background: #5078B3 url(../img/hdr_admin.jpg) no-repeat left top;
+                     clear: both;}
+#contentMain        {width: 100%;	margin: 0;padding: 0;}
+#sidebar            {width: 170px;margin: 0;padding: 0;
+                     /*background-color: #ddd1c8; */
+                     background-color: #D3DEEF;
+                     float: left;}
+#main               {width: 780px;margin: 0;padding: 20px 10px 0px 20px;
+                     background-color: #ffffff;
+                     text-align: left;	float: left;	overflow: visible;}
+#footer             {width: 100%;height: 40px;background-color: #ffffff;clear: both;}
+#print              {width: 100%;	margin: 0;padding: 0;background-color: #FFFFFF;}
+
+/* -------------------------------------
+Header
+------------------------------------- */
+.hdr                {font: 12px/1.2em Arial, Verdana, Sans-Serif;color: #fff;text-decoration: none;}
+.hdr a:link, .hdr a:active, .hdr a:visited, .hdr a:hover {
+	                 font: 12px/1.2em Arial, Verdana, Sans-Serif;
+	                 color: #fff; text-decoration: none;}
+
+/* -------------------------------------
+Login Box
+------------------------------------- */
+.login_title        {width: 100%;margin: 0;padding: 20px 0;background-color: #2E4d7B;
+                     border: 0px solid #2E4d7B;font: bold 13px Arial, Verdana, Sans-Serif;letter-spacing: 1px;
+                     text-align: center;color: #fff;}
+
+/* -------------------------------------
+Datagrid Pager
+------------------------------------- */				
+.pagerStyle1 a      {text-decoration: none;color: #0000ff; }
+
+/* -------------------------------------
+CUSTOM CLASSES 
+------------------------------------- */
+.styleBorder        {border: darkslategray 1px solid;}
+
+/* -------------------------------------
+Datagrid Items
+border: #e1e1e1 1px solid;
+------------------------------------- */
+.styleGrid          {border: #cccccc 1px solid;padding: 2px 2px 2px 2px}
+.styleGridLink      {color: #3366cc;text-decoration: none;}
+
+/* LEFT COLUMN */
+.left_td            {height:18px}
+
+/* Accordion */
+.accordionHeader    {border: 1px solid #2F4F4F;color: white;background-color: #2E4d7B;
+                     font-family: Arial, Sans-Serif;font-size: 12px;font-weight: bold;
+                     padding: 5px;margin-top: 5px;cursor: pointer;}
+.accordionHeaderSelected{border: 1px solid #2F4F4F;color: white;background-color: #5078B3;font-family: Arial, Sans-Serif;
+                         font-size: 12px;font-weight: bold;padding: 5px;margin-top: 5px;cursor: pointer;}
+.accordionContent   {background-color: #D3DEEF;border: 1px dashed #2F4F4F;border-top: none;padding: 5px;padding-top: 10px;}
+
+/*Modal Popup*/
+.modalBackground    {background-color:Gray;filter:alpha(opacity=70);opacity:0.7;}
+.modalPopup         {background-color:#ffffdd;border-width:3px;border-style:solid;border-color:Gray;padding:3px;width:250px;}
+.sampleStyleA       {background-color:#FFF;}
+.sampleStyleB       {background-color:#FFF;font-family:monospace;font-size:10pt;font-weight:bold;}
+.sampleStyleC       {background-color:#ddffdd;font-family:sans-serif;font-size:10pt;font-style:italic;}
+.sampleStyleD       {background-color:Blue;color:White;font-family:Arial;font-size:10pt;}
+
+/*Popup Control*/
+.popupControl       {background-color:White;position:absolute;visibility:hidden;}
